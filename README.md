@@ -15,4 +15,4 @@ Classifiers:
 	- SVM (radial basis function kernel) 
 	- Logistic Regression
 	
-You can find complete report of the work.
+You can find complete report of my work [here](report/ProjectReport.pdf).
